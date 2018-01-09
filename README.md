@@ -13,12 +13,12 @@ g++  poten_withghost.c  pso.c  matmul2.c  randomlib.c -o  poten_withghost
 
 ./poten_noghost  poten_fitting  50  16  500  10  0
 
-//poten_noghost function np nd ni maxRun option
+./poten_noghost function np nd ni maxRun option
 
 ### How to run potential fitting with ghost atom ?
 
 
 ./poten_withghost  poten_fitting  50  25  500  10  0
 
-// poten_withghost function np nd ni maxRun option
+./ poten_withghost function np nd ni maxRun option
 
